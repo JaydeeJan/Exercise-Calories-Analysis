@@ -1,0 +1,1 @@
+This app accesses Fitbit data via OAuth; data is used only for this analysis and is not stored beyond the session.
